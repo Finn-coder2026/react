@@ -11,7 +11,6 @@ React is a JavaScript library for building user interfaces.
 
 - **Rust Compiler Port**: Plans in `compiler/docs/rust-port/`, implementation in `compiler/crates/`
 - Branch: `rust-research` 
-- 
-- 锄禾日当午
+锄禾日当午
 
-      汗滴禾下土
+汗滴禾下土
